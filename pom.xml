@@ -9,5 +9,6 @@
   <modules>
   	<module>ch03</module>
   	<module>ch02</module>
+    <module>batchprocessing</module>
   </modules>
 </project>
